@@ -1,4 +1,8 @@
+# not my code, but I cleaned up some errors and redundancies as practice. Wasn't on github to fork. 
+
+
 from tkinter import*
+
 
 me=Tk()
 me.geometry("354x460")
